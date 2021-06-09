@@ -32,7 +32,7 @@ linkedin_username: crowind
 # Additional icon links
 additional_links:
 - title: CV
-  icon: fas fa-globe
+  icon: fas fa-file-alt
   url: https://github.com/Crowind/crowind.github.io/blob/master/source/My_CV.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
