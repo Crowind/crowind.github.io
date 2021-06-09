@@ -47,7 +47,8 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # Hi! I'm Crowind and I live in Pisa, Italy.
+about_content: | # this will include new lines to allow paragraphs
+Hi! I'm Crowind and I live in Pisa, Italy.
 After getting my computer science degree i decided to focus on videogame development and I joined the TheSign Comics and Arts Academy, where I'm currently enrolled.
 
 My favourite fields are Shaders and Code Architecture.
