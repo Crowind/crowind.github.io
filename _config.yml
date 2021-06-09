@@ -6,13 +6,13 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Giuseppe De Frenza
+name: Giuseppe Crowind De Frenza
 title: Programmer
 email: crowind.gdev@gmail.com
-website: crowind.github.io
+#website: crowind.github.io
 
 # Dark Mode
-darkmode: true
+darkmode: false
 
 # Social links
 twitter_username: _Crowind
