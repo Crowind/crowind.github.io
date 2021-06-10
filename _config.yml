@@ -79,8 +79,7 @@ content:
 
  - title: Skills
    layout: text
-   content:
-       description: |
+   content: |
  Problem Solving ![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)
 
 # Footer
