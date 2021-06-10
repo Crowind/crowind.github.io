@@ -54,9 +54,10 @@ about_content: | # this will include new lines to allow paragraphs
  My favourite fields are Shaders and Code Architecture.
 
  I have always been versatile. I have basic skills in 2D art, animation, design and game design! That's probably the reason I think the most important part of a project is a shared vision. 
+ 
  Fighting games and tabletop games lover.
 
- [&#128456; CV Download Here!](https://github.com/Crowind/crowind.github.io/blob/master/downloads/Giuseppe-Crowind-De-Frenza_CV.pdf)
+ For more info download my [&#128456; CV here](https://github.com/Crowind/crowind.github.io/blob/master/downloads/Giuseppe-Crowind-De-Frenza_CV.pdf)!
 
 content:
   - title: Projects # Title for the section
@@ -80,13 +81,13 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      #Problem Solving ![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)
+      # Problem Solving ![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)
 
-      #Shaders ![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleEmpty.png)
+      # Shaders         ![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleEmpty.png)
 
-      #English ![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)
+      # English         ![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)
 
-      #Game Design ![](images/yellowFull.png)![](images/yellowFull.png)![](images/yellowFull.png)![](images/yellowEmpty.png)![](images/yellowEmpty.png)
+      # Game Design     ![](images/yellowFull.png)![](images/yellowFull.png)![](images/yellowFull.png)![](images/yellowEmpty.png)![](images/yellowEmpty.png)
 
 # Footer
 footer_show_references: false
