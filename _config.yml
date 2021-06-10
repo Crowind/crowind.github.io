@@ -55,39 +55,25 @@ about_content: | # this will include new lines to allow paragraphs
 
  I have always been versatile. I have basic skills in 2D art, animation, design and game design! That's probably the reason I think the most important part of a project is a shared vision. 
  
- Fighting games and tabletop games lover.
+ Tabletop games lover, outsite my house's walls I love to hike and I organize fighting games tournaments!
 
  For more info download my [&#128456; CV here](https://github.com/Crowind/crowind.github.io/blob/master/downloads/Giuseppe-Crowind-De-Frenza_CV.pdf)!
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Project Title
-        link: project url
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-        description: | # this will include new lines to allow paragraphs
-          project description
-
-  - title: A Little More About Me
+  - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      # Problem Solving ![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)
+      Problem Solving ![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)
 
-      # Shaders         ![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleEmpty.png)
+      Shaders         ![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleEmpty.png)
 
-      # English         ![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)
+      English         ![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)
 
-      # Game Design     ![](images/yellowFull.png)![](images/yellowFull.png)![](images/yellowFull.png)![](images/yellowEmpty.png)![](images/yellowEmpty.png)
+      Game Design     ![](images/yellowFull.png)![](images/yellowFull.png)![](images/yellowFull.png)![](images/yellowEmpty.png)![](images/yellowEmpty.png)
+
+  - title: Projects # Title for the section
+    content: |  
+     projects description
 
 # Footer
 footer_show_references: false
