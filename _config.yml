@@ -65,6 +65,8 @@ content:
     content: | # this will include new lines to allow paragraphs
       Problem Solving&nbsp;![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)
 
+      Global Vision&nbsp;&nbsp;&nbsp;&nbsp;![](images/redFull.png)![](images/redFull.png)![](images/redFull.png)![](images/redFull.png)![](images/redFull.png)
+
       Shaders&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleEmpty.png)
 
       English&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)
