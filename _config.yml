@@ -78,9 +78,8 @@ content:
           project description
 
  - title: Skills
-   layout: list
+   layout: text
    content:
-     - layout: top-left
        description: |
  Problem Solving ![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)
 
