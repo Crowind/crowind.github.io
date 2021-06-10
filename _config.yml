@@ -71,10 +71,6 @@ content:
 
       Game Design     ![](images/yellowFull.png)![](images/yellowFull.png)![](images/yellowFull.png)![](images/yellowEmpty.png)![](images/yellowEmpty.png)
 
-  - title: Projects # Title for the section
-    content: |  
-     projects description
-
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
