@@ -56,7 +56,9 @@ about_content: | # this will include new lines to allow paragraphs
  I have always been versatile. I have basic skills in 2D art, animation, design and game design! That's probably the reason I think the most important part of a project is a shared vision. 
  Fighting games and tabletop games lover.
 
- <mark><a href="https://github.com/Crowind/crowind.github.io/blob/master/downloads/Giuseppe-Crowind-De-Frenza_CV.pdf" download="cv.pdf"> <p style="font-size:48px">&#128456;</p> CV Download Here!</a></mark>
+ <mark> [&#128456; CV Download Here!](https://github.com/Crowind/crowind.github.io/blob/master/downloads/Giuseppe-Crowind-De-Frenza_CV.pdf) </mark>
+
+ ![](blueFull.png)![](images/blueFull.png)
 
 content:
   - title: Projects # Title for the section
