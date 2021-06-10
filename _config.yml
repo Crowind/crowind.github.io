@@ -80,8 +80,10 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      Problem Solving ![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)
+      Shaders ![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleEmpty.png)
+      English ![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)
+      Game Design ![](images/yellowFull.png)![](images/yellowFull.png)![](images/yellowFull.png)![](images/yellowEmpty.png)![](images/yellowEmpty.png)
 
 # Footer
 footer_show_references: false
