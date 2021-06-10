@@ -80,10 +80,13 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Problem Solving ![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)
-      Shaders ![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleEmpty.png)
-      English ![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)
-      Game Design ![](images/yellowFull.png)![](images/yellowFull.png)![](images/yellowFull.png)![](images/yellowEmpty.png)![](images/yellowEmpty.png)
+      #Problem Solving ![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)![](images/blueFull.png)
+
+      #Shaders ![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleEmpty.png)
+
+      #English ![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)
+
+      #Game Design ![](images/yellowFull.png)![](images/yellowFull.png)![](images/yellowFull.png)![](images/yellowEmpty.png)![](images/yellowEmpty.png)
 
 # Footer
 footer_show_references: false
