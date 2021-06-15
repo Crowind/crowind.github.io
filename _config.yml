@@ -86,8 +86,7 @@ content:
         #  Programming, Design
         description: | # this will include new lines to allow paragraphs
          <img src="images/beyondMachines.png" height="250"/>
-    
-    content:
+         
       - layout: left
         title: Re-Pair
         sub_title: Programming
