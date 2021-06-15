@@ -77,6 +77,17 @@ content:
     layout: list
     content:
       - layout: left
+        title: Lost in the Unknown
+        sub_title: Programming, Design
+        caption: Nov 2019 - Sept 2021
+        link: https://github.com/TheSignAcademy/cu_LostInTheUnknown
+        link_text: github.com
+        #quote: >
+        #  Programming, Design
+        description: | # this will include new lines to allow paragraphs
+         <img src="images/litu.png" height="200"/>
+         
+      - layout: left
         title: Beyond Machines
         sub_title: Programming, Design
         caption: Nov 2018 - Jul 2019
@@ -90,7 +101,7 @@ content:
       - layout: left
         title: Re-Pair
         sub_title: Programming
-        caption: Jan 2020
+        caption: Jan 2020 (Jam)
         link: https://globalgamejam.org/2020/games/re-pair-0-2
         link_text: globalgamejam.org
         #quote: >
@@ -101,7 +112,7 @@ content:
       - layout: left
         title: A Back of Gold
         sub_title: Programming
-        caption: Sept 2019
+        caption: Sept 2019 (Jam)
         link: https://internetfestival.itch.io/a-back-of-gold-if-game-jam-rulez-2019
         link_text: itch.io
         #quote: >
