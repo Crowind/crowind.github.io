@@ -76,7 +76,7 @@ content:
   - title: Projects
     layout: list
     content:
-      - layout: top-center
+      - layout: top-right
         title: Beyond Machines
         sub_title: Puzzle Platformer Co-op
         caption: Academic project
