@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
  
  Tabletop games lover, outsite my house's walls I love to hike and I organize fighting games tournaments!
 
- For more info download my [ <font size="5">&#128456;</font> CV here](https://github.com/Crowind/crowind.github.io/blob/master/downloads/Giuseppe-Crowind-De-Frenza_CV.pdf)!
+ For more info download my [ <font size="10">&#128456;</font> CV here](https://github.com/Crowind/crowind.github.io/blob/master/downloads/Giuseppe-Crowind-De-Frenza_CV.pdf)!
 
 content:
   - title: Skills
@@ -65,13 +65,13 @@ content:
     content: | # this will include new lines to allow paragraphs
       Problem Solving&nbsp; <font size="5"> &#9733;&#9733;&#9733;&#9733;&#9733; </font>
 
-      Global Vision&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="3"> &#9733;&#9733;&#9733;&#9733;&#9733; </font>
+      Global Vision&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="5"> &#9733;&#9733;&#9733;&#9733;&#9733; </font>
 
-      Shaders&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleEmpty.png)
+      Shaders&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;<font size="5">&#9733;&#9733;&#9733;&#9733;</font>
 
-      English&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)![](images/greenFull.png)
+      English&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="5">&#9733;&#9733;&#9733;&#9733;</font>
 
-      Game Design&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/yellowFull.png)![](images/yellowFull.png)![](images/yellowFull.png)![](images/yellowEmpty.png)![](images/yellowEmpty.png)
+      Game Design&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="5">&#9733;&#9733;&#9733;</font>
 
 # Footer
 footer_show_references: false
