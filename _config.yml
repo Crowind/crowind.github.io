@@ -63,7 +63,7 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Problem Solving&nbsp;&#9734;&#9734;&#9734;&#9734;&#9734;
+      Problem Solving&nbsp; # &#9733;&#9733;&#9733;&#9733;&#9733;
 
       Global Vision&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/redFull.png)![](images/redFull.png)![](images/redFull.png)![](images/redFull.png)![](images/redFull.png)
 
