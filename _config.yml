@@ -79,13 +79,13 @@ content:
       - layout: top-right
         title: Beyond Machines
         sub_title: Puzzle Platformer Co-op
-        caption: Academic project
+        #caption: Academic project
         link: https://gitlab.com/Crowind/lovepuzzlesandbox.git
         link_text: Repository
         quote: >
-          Short overview or quote for the item
+          Programming, Design
         description: | # this will include new lines to allow paragraphs
-          Main content area for the list item.
+          Academic project
 
 # Footer
 footer_show_references: false
