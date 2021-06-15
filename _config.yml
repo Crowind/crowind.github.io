@@ -85,7 +85,7 @@ content:
         quote: >
           Programming, Design
         description: | # this will include new lines to allow paragraphs
-          ![](images/beyondMachines.jpg)
+          ![](images/beyondMachines.png)
 
 # Footer
 footer_show_references: false
