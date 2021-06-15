@@ -63,9 +63,9 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Problem Solving&nbsp; <font size="1"> &#9733;&#9733;&#9733;&#9733;&#9733; </font>
+      Problem Solving&nbsp; <font size="10"> &#9733;&#9733;&#9733;&#9733;&#9733; </font>
 
-      Global Vision&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/redFull.png)![](images/redFull.png)![](images/redFull.png)![](images/redFull.png)![](images/redFull.png)
+      Global Vision&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="15"> &#9733;&#9733;&#9733;&#9733;&#9733; </font>
 
       Shaders&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleFull.png)![](images/purpleEmpty.png)
 
