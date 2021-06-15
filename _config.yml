@@ -76,12 +76,12 @@ content:
   - title: Projects
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: Beyond Machines
         sub_title: Puzzle Platformer Co-op
         #caption: Academic project
         link: https://gitlab.com/Crowind/lovepuzzlesandbox.git
-        link_text: Repository
+        link_text: gitlab.com/Crowind/lovepuzzlesandbox.git
         quote: >
           Programming, Design
         description: | # this will include new lines to allow paragraphs
