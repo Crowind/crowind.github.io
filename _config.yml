@@ -76,7 +76,7 @@ content:
   - title: Projects
     layout: list
     content:
-      - layout: center
+      - layout: right
         title: Beyond Machines
         sub_title: Puzzle Platformer Co-op
         caption: Nov 2018 - Jul 2019
