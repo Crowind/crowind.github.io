@@ -78,14 +78,14 @@ content:
     content:
       - layout: left
         title: Beyond Machines
-        sub_title: Puzzle Platformer Co-op
+        sub_title: Programming, Design
         caption: Nov 2018 - Jul 2019
         link: https://gitlab.com/Crowind/lovepuzzlesandbox.git
         link_text: gitlab.com/Crowind/lovepuzzlesandbox.git
-        quote: >
-          Programming, Design
+        #quote: >
+        #  Programming, Design
         description: | # this will include new lines to allow paragraphs
-         <img src="images/beyondMachines.png" height="200"/>
+         <img src="images/beyondMachines.png" height="250"/>
          ![](images/beyondMachines.png)
 
 # Footer
