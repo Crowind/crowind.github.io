@@ -85,7 +85,7 @@ content:
         quote: >
           Programming, Design
         description: | # this will include new lines to allow paragraphs
-         <img src="images/beyondMachines.png" height="50"/>
+         <img src="images/beyondMachines.png" height="200"/>
          ![](images/beyondMachines.png)
 
 # Footer
