@@ -82,10 +82,6 @@ content:
         caption: Item caption
         link: https://sproogen.github.io/modern-resume-theme
         link_text: Text for link
-        additional_links: (optional)
-          - title: Link name
-            icon: fab fa-twitter #(https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-            url: https://google.com
         quote: >
           Short overview or quote for the item
         description: | # this will include new lines to allow paragraphs
