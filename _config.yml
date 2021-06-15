@@ -76,10 +76,10 @@ content:
   - title: Projects
     layout: list
     content:
-      - layout: top-left
+      - layout: left
         title: Beyond Machines
         sub_title: Puzzle Platformer Co-op
-        #caption: Academic project
+        caption: Nov 2018 - Jul 2019
         link: https://gitlab.com/Crowind/lovepuzzlesandbox.git
         link_text: gitlab.com/Crowind/lovepuzzlesandbox.git
         quote: >
