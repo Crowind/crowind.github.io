@@ -86,7 +86,17 @@ content:
         #  Programming, Design
         description: | # this will include new lines to allow paragraphs
          <img src="images/beyondMachines.png" height="250"/>
-         ![](images/beyondMachines.png)
+    content:
+      - layout: right
+        title: Re-Pair
+        sub_title: Programming
+        caption: Jan 2020
+        link: https://globalgamejam.org/2020/games/re-pair-0-2
+        link_text: https://globalgamejam.org/2020/games/re-pair-0-2
+        #quote: >
+        #  Programming, Design
+        description: | # this will include new lines to allow paragraphs
+         <img src="images/re-pair.png" height="250"/>
 
 # Footer
 footer_show_references: false
