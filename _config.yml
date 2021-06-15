@@ -76,12 +76,12 @@ content:
   - title: Projects
     layout: list
     content:
-      - layout: right
-        title: Name of item
+      - layout: center
+        title: Beyond Machines
         sub_title: Sub title
         caption: Item caption
-        link: https://sproogen.github.io/modern-resume-theme
-        link_text: Text for link
+        link: https://gitlab.com/Crowind/lovepuzzlesandbox.git
+        link_text: Repository
         quote: >
           Short overview or quote for the item
         description: | # this will include new lines to allow paragraphs
