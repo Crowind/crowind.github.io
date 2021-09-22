@@ -75,6 +75,17 @@ content:
     layout: list
     content:
       - layout: left
+        title: Roll with the Tiles
+        sub_title: Solo Project
+        caption: 2020 - 2021
+        link: 
+        link_text: 
+        #quote: >
+        #  Programming, Design
+        description: | # this will include new lines to allow paragraphs
+         <img src="images/collapse.gif" height="200"/>
+         
+      - layout: left
         title: Lost in the Unknown
         sub_title: Programming, Design
         caption: Nov 2019 - Sept 2021
