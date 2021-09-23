@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Giuseppe Crowind De Frenza
+name: Giuseppe *Crowind* De Frenza
 title: Programmer, Unity Developer
 email: crowind.gdev@gmail.com
 #website: crowind.github.io
@@ -48,7 +48,7 @@ linkedin_username: crowind
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hi! I my name is Giuseppe Crowind De Frenza and I live in Pisa, Italy.
+ Hi! I my name is Giuseppe *Crowind* De Frenza and I live in Pisa, Italy.
  After getting my computer science degree I decided to focus on videogame development. I joined the TheSign Comics and Arts Academy in 2018, from where I graduated in september 2021 with full marks.
 
  My favourite fields are Shaders and Code Architecture, but during my career I have been able to learn a lot in multiple fields, like Artificial Intelligence, Procedural Animations, Procedural Generation, and Tool Programming.
