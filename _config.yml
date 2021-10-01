@@ -92,9 +92,11 @@ content:
         link: https://github.com/TheSignAcademy/cu_LostInTheUnknown
         link_text: github.com
         quote: >
-          First person game where the player explores a dark cave in order to escape. They wear a special scanner that highlights the environment's shapes.
+          Nov 2019 - Sept 2021
         description: | # this will include new lines to allow paragraphs
          <img src="images/litu.png" height="200"/>
+         
+         First person game where the player explores a dark cave in order to escape. They wear a special scanner that highlights the environment's shapes.
          
          
       - layout: left
