@@ -88,14 +88,14 @@ content:
       - layout: left
         title: Lost in the Unknown
         sub_title: Programming, Design
-        caption: Nov 2019 - Sept 2021
+        caption: AI, Shaders, Tools, Gameplay
+        
+        Nov 2019 - Sept 2021
         link: https://github.com/TheSignAcademy/cu_LostInTheUnknown
         link_text: github.com
         quote: >
-          AI, Shaders, Tools, Gameplay
+          First person game where the player explores a dark cave in order to escape. They wear a special scanner that highlights the environment's shapes.
         description: | # this will include new lines to allow paragraphs
-         First person game where the player explores a dark cave in order to escape. They wear a special scanner that highlights the environment's shapes.
-         
          <img src="images/litu.png" height="200"/>
          
          
