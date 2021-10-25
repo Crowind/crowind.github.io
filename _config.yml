@@ -89,22 +89,24 @@ content:
       - layout: left
         title: Roll with the Tiles
         sub_title: Solo Project
-        caption: 2020 - 2021
+        caption: 
         link: 
         link_text: 
-        #quote: >
-        #  Programming, Design
+        quote: >
+          2020 - ...
         description: | # this will include new lines to allow paragraphs
          <img src="images/collapse.gif" height="200"/>
+         
+         Tile-based map generator, based on the wave-function-collapse algorhythm.
          
       - layout: left
         title: Lost in the Unknown
         sub_title: Programming, Design
-        caption: AI, Shaders, Tools, Gameplay
+        caption: AI, Shaders, Tools, Gameplay, UI
         link: https://github.com/TheSignAcademy/cu_LostInTheUnknown
         link_text: github.com
         quote: >
-          Nov 2019 - Sept 2021
+         Nov 2019 - Sept 2021
         description: | # this will include new lines to allow paragraphs
          <img src="images/litu.png" height="200"/>
          
@@ -114,35 +116,54 @@ content:
       - layout: left
         title: Beyond Machines
         sub_title: Programming, Design
-        caption: Nov 2018 - Jul 2019
-        link: https://gitlab.com/Crowind/lovepuzzlesandbox.git
+        caption: Tools, Gameplay, UI
+        link: https://gitlab.com/Crowind/lovepuzzlesandbox/-/releases
         link_text: gitlab.com
-        #quote: >
-        #  Programming, Design
+        quote: >
+         Nov 2018 - Jul 2019
         description: | # this will include new lines to allow paragraphs
          <img src="images/beyondMachines.png" height="200"/>
+         
+         Coop puzzle game, two robots will save their kind with the power of love, cooperation and magnetism.
+         
+      - layout: left
+        title: My Travel Agency: Lazio
+        sub_title: Programming, Design
+        caption: Gameplay, UI
+        link: https://github.com/Crowind/TourismJam
+        link_text: github
+        quote: >
+         Oct 2021 (Jam)
+        description: | # this will include new lines to allow paragraphs
+         <img src="images/mytravelagency.png" height="200"/>
+         
+         Chill strategic game: satisfy all of your clients with the right destinations and unlock more of them!         
          
       - layout: left
         title: Re-Pair
         sub_title: Programming
-        caption: Jan 2020 (Jam)
+        caption: Shaders, Gameplay, UI
         link: https://globalgamejam.org/2020/games/re-pair-0-2
         link_text: globalgamejam.org
-        #quote: >
-        #  Programming, Design
+        quote: >
+         Jan 2020 (Jam)
         description: | # this will include new lines to allow paragraphs
-         <img src="images/re-pair.png" height="200"/>         
+         <img src="images/re-pair.png" height="200"/>
+         
+         Junky hypercasual: merge different scraps and "re-pair" them into new crazy objects.
          
       - layout: left
         title: A Back of Gold
         sub_title: Programming
-        caption: Sept 2019 (Jam)
+        caption: Gameplay, Animator
         link: https://internetfestival.itch.io/a-back-of-gold-if-game-jam-rulez-2019
         link_text: itch.io
-        #quote: >
-        #  Programming, Design
+        quote: >
+          Sept 2019 (Jam)
         description: | # this will include new lines to allow paragraphs
          <img src="images/gold.png" height="200"/>
+         
+         Strategic king of the hill game: keep the gold bad as long as possible through positioning!
 
 # Footer
 footer_show_references: false
