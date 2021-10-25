@@ -71,6 +71,16 @@ content:
 
       Game Design&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="5">&#129370;&#129370;&#129370;</font>
       
+  - title: Shaders
+    layout: text
+    content: |
+     <img src="images/shader_scanner.gif" height="200"/>
+     <img src="images/shader_corruption.gif" height="200"/>
+     <img src="images/shader_fog.gif" height="200"/>
+     <img src="images/shader_flow.gif" height="200"/>
+     <img src="images/shader_book.gif" height="200"/>
+     <img src="images/shader_book2.gif" height="200"/>
+  
   - title: Projects
     layout: list
     content:
