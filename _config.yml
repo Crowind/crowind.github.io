@@ -75,6 +75,7 @@ content:
     layout: text
     content: |
      <img src="images/shader_scanner.gif" height="200"/>
+     <img src="images/pacdeath.gif" height="200"/>
      <img src="images/shader_corruption.gif" height="200"/>
      <img src="images/shader_fog.gif" height="200"/>
      <img src="images/shader_flow.gif" height="200"/>
