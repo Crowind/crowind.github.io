@@ -49,6 +49,7 @@ linkedin_username: crowind
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
  Hi! My name is Giuseppe *Crowind* De Frenza and I'm currently employed as a Programmer @ [Untold Games](https://untoldgames.com/) in Genoa, Italy.
+ 
  After getting my computer science degree I decided to focus on videogame development. I joined the TheSign Comics and Arts Academy in 2018, from where I graduated in september 2021 with full marks.
 
  My favourite fields are Shaders and Code Architecture, but during my career I have been able to learn a lot in multiple fields, like Artificial Intelligence, Procedural Animations, Procedural Generation, and Tool Programming.
