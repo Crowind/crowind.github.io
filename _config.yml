@@ -33,11 +33,11 @@ linkedin_username: crowind
 # Additional icon links
 additional_links:
 - title: Mastodon
-  icon: fa-brands fa-mastodon
+  icon: fa-mastodon
   url: https://mastodon.gamedev.place/@Crowind
   
 - title: CV
-  icon: fa-brands fa-mastodon
+  icon: fas fa-file-alt
   url: https://github.com/Crowind/crowind.github.io/raw/master/downloads/Giuseppe-Crowind-De-Frenza_CV.pdf
 #- title: another link
 #  icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
