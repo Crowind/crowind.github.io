@@ -33,7 +33,7 @@ linkedin_username: crowind
 # Additional icon links
 additional_links:
 - title: Mastodon
-  icon: fas fa-elephant
+  icon: 🐘
   url: https://mastodon.gamedev.place/@Crowind
   
 - title: CV
