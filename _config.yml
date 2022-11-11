@@ -38,7 +38,8 @@ additional_links:
 
 - title: Test
   icon: fab fa-mastodon
-  url: https://mastodon.gamedev.place/@Crowind {:rel="me"}
+  url: https://mastodon.gamedev.place/@Crowind
+  rel: me
   
 - title: CV
   icon: fas fa-file-alt
