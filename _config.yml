@@ -6,9 +6,9 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Giuseppe 'Crowind' De Frenza
+name: Viola Merula De Frenza
 title: Programmer, Unity Developer
-email: crowind.gdev@gmail.com
+email: viola.merula@gmail.com
 #website: crowind.github.io
 
 # Dark Mode
@@ -53,7 +53,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hi! My name is Giuseppe De Frenza aka Crowind and I'm currently employed as a Programmer @ [Untold Games](https://untoldgames.com/) in Genoa, Italy.
+ Hi! My name is Viola De Frenza and I'm currently employed as a Programmer @ [Untold Games](https://untoldgames.com/) in Genoa, Italy.
  
  After getting my computer science degree I decided to focus on videogame development. I joined the TheSign Comics and Arts Academy in 2018, from where I graduated in september 2021 with full marks.
 
